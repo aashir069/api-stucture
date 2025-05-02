@@ -1,0 +1,122 @@
+[
+    {
+        "img_id": 101,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/cascade-boat-clean-china-natural-rural_1417-1356.jpg?t=st=1745992533~exp=1745996133~hmac=7936ae377086664d980c7b9d0b782e7cff0c797c63001d9502453a31dc489f6e&w=740",
+        "img_description": "Snow blankets pine trees in a silent, peaceful forest."
+    },
+    {
+        "img_id": 102,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/fuji-mountain-kawaguchiko-lake-morning-autumn-seasons-fuji-mountain-yamanachi-japan_335224-102.jpg?t=st=1745993130~exp=1745996730~hmac=6bd428a5c6d46fc0a56f7b721d7af64fae587d67e036aab3fbcbc08c83379d7f&w=740",
+        "img_description": "Waves crash endlessly on a windswept, rocky shore."
+    },
+    {
+        "img_id": 103,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/beautiful-shot-waterfall-coming-down-from-mountains_181624-1282.jpg?t=st=1745993157~exp=1745996757~hmac=9b27ecaad9d2a125becd403f7aaf5781b83ba9cf6de8d9ef70d18ddbbcda62e7&w=740",
+        "img_description": "Golden fields sway under a bright, cloudless sky."
+    },
+    {
+        "img_id": 104,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/beautiful-wooden-pathway-going-breathtaking-colorful-trees-forest_181624-5840.jpg?t=st=1745993178~exp=1745996778~hmac=db09c94322c58b1d1e75a07c1fed10470a0ea965f61306368deeb68166011a73&w=740",
+        "img_description": "Mist curls over the mountain peaks at dawn."
+    },
+    {
+        "img_id": 105,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/vertical-shot-road-going-through-beautiful-colorful-trees-captured-day-time_181624-8309.jpg?t=st=1745993216~exp=1745996816~hmac=301f213673b2b7cf1d1cd4cceb5d5529006e7174aadd92c31a5ff75f4062f64e&w=740",
+        "img_description": "Autumn leaves scatter on the old forest trail."
+    },
+    {
+        "img_id": 106,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/brown-wooden-dock_198523-110.jpg?t=st=1745993156~exp=1745996756~hmac=d66e8026736d8743591ff9d9468358c088d51296aa53e81884b53984bbd35322&w=900",
+        "img_description": "Stars twinkle above the still desert under moonlight."
+    },
+    {
+        "img_id": 107,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/beautiful-shot-grassy-hills-covered-trees-near-mountains-dolomites-italy_181624-24400.jpg?t=st=1745993264~exp=1745996864~hmac=2bf07824b7a543c7f81899e7b20b8be27ecfaff8d1586121013bf56cb2460e09&w=740",
+        "img_description": "Cherry blossoms dance in the soft spring breeze."
+    },
+    {
+        "img_id": 108,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/blue-mountains-famous-tourism-scenery-lijiang_1417-1143.jpg?t=st=1745993289~exp=1745996889~hmac=f61bc77e853737a835fb8ebb86ebe6173598c4ad0b90407bcd889f71d9d05601&w=826",
+        "img_description": "Thunderstorms roll over distant, sunlit hills."
+    },
+    {
+        "img_id": 109,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/premium-photo/natural-background-sunset_28898-1.jpg?w=740",
+        "img_description": "Morning dew sparkles on fresh green grass."
+    },
+    {
+        "img_id": 110,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/premium-vector/night-with-hut-river-moonlight_104785-750.jpg?w=740",
+        "img_description": "A waterfall roars into a crystal-clear jungle pool."
+    },
+    {
+        "img_id": 111,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/autumn-season-mountain-fuji-kawaguchiko-lake-japan_335224-96.jpg?t=st=1746160875~exp=1746164475~hmac=c6dfde67234b1e00b0fb36f59ff5ee7fc2403b3dac8bfbad30c5d9037fda59ce&w=740",
+        "img_description": "Lavender fields stretch toward a pastel evening sky."
+    },
+    {
+        "img_id": 112,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/beautiful-landscape-mountain-fuji_74190-3065.jpg?t=st=1746160785~exp=1746164385~hmac=166ecf0e7559787e050d32ef5dc949543947f62f7c3a17e56f4756c5eb263c71&w=740",
+        "img_description": "Fog drifts across the sleepy, rolling countryside."
+    },
+    {
+        "img_id": 113,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/vertical-shot-some-beautiful-trees-sun-setting-background_181624-4522.jpg?t=st=1746160972~exp=1746164572~hmac=4802c82c17aadab06261c70c1ccaac8029893fe9b2be21ea06aa71f56f61efb5&w=740",
+        "img_description": "Fireflies blink over a quiet meadow at dusk."
+    },
+    {
+        "img_id": 114,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/vertical-high-angle-shot-valbona-valley-national-park-clear-blue-sky-albania_181624-46470.jpg?t=st=1746161005~exp=1746164605~hmac=e8f2bcddec44c593e0596bcd7ce65a49933f7dfea36a794136ac8c75f06094d9&w=740",
+        "img_description": "Icebergs float silently in the frigid, blue Arctic waters."
+    },
+    {
+        "img_id": 115,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/kayakers-sparks-lake_181624-29232.jpg?t=st=1746161055~exp=1746164655~hmac=314e78d10d7bf2ca8171f391eb73c878e93378bb2363bcc3f941c490ae1175fa&w=740",
+        "img_description": "The city skyline glows under a fiery sunset."
+    },
+    {
+        "img_id": 116,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/erawan-waterfall-autumn-thailand-beautiful-waterfall-with-emerald-pool-nature_335224-777.jpg?t=st=1746161098~exp=1746164698~hmac=d6c18f12320ef5c4bb2ed14ef878205ba29b55f254cdec7f1dd83a14c8623225&w=740",
+        "img_description": "A crescent moon hangs above still ocean waves."
+    },
+    {
+        "img_id": 117,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/background-park-wonder-famous-countryside-waterscape_1417-1105.jpg?t=st=1746161143~exp=1746164743~hmac=ba63ca10e63d1b1be11a895db4a668b6e92446259b450fae66997de9d800a297&w=740",
+        "img_description": "Cactus stands tall beneath the scorching desert sun."
+    },
+    {
+        "img_id": 118,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/water-mountain-tourism-mountains-blue-countryside_1417-1226.jpg?t=st=1746161189~exp=1746164789~hmac=bdc96b068d86526a0be0e0277b279f0b80ecb5ce3d9fdb78c8157d262a2f3976&w=740",
+        "img_description": "Wildflowers bloom beside a winding mountain path."
+    },
+    {
+        "img_id": 119,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/beautiful-scenery-road-forest-with-lot-colorful-autumn-trees_181624-30942.jpg?t=st=1746161210~exp=1746164810~hmac=c98119ea1dd691a0626573b2d0fc6930afd07fbc1b0c3aea06269af2f759f784&w=740",
+        "img_description": "Rain taps softly on the cabin’s tin roof."
+    },
+    {
+        "img_id": 120,
+        "img_category": "scenery",
+        "img_URL": "https://img.freepik.com/free-photo/waterfall-with-trees-around_1258-41.jpg?t=st=1746161244~exp=1746164844~hmac=d298247da43768ecab12b2f7cde543dd38c7b030926d48e8d331054113cbc6d2&w=740",
+        "img_description": "Sunset bleeds orange across the quiet, shimmering lake."
+    }
+]
